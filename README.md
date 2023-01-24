@@ -1,2 +1,2 @@
 # frontend-app
-React.js, Javascript, Typescript
+React.js, Javascript, Typescript, TailwindCSS
